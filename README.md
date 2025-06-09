@@ -42,7 +42,7 @@ sudo apt update
 pip install opencv-python pyserial
 ```
 
-### 2. Підключити камеру USB та запустити `main.py`
+### 2. Підключити камеру USB та запустити `Python (OpenCV + Coordinate Transfer).py`
 
 ### 3. Завантажити скетч на Arduino UNO
 
